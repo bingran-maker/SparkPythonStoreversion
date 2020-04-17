@@ -1,0 +1,11 @@
+(1)启动spark集群
+# start-dfs.sh
+# start-master.sh
+# start-slaves.sh
+(2)配置开发环境pycharm
+# cd /usr/local/spark/python/lib
+复制其中的py4j-0.10.7-src.zip和pyspark.zip
+将解压后的pyspark和py4j复制到目录
+D:\Anaconda3\envs\python36\Lib\site-packages
+
+
